@@ -11,7 +11,7 @@
 ## About Me :
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-<img align="right" alt="coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding"  width="300" src="./assets/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 • 🔭 I’m currently working on <b>MERN Stack</b><br/>
 • 👨‍💻 Ask me about <b>Full Stack<br/>

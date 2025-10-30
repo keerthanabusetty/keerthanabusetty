@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer+from+India" alt="Typing SVG" style="margin-right: 10px;">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanabusetty&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanabusetty" /> </p>
 <p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
 
 ## About Me :
@@ -13,21 +13,17 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <img align="right" alt="coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-• 🔭 I’m currently working on <b>MEAN/</b> <b>MERN Stack</b><br/>
+• 🔭 I’m currently working on <b>MERN Stack</b><br/>
 • 👨‍💻 Ask me about <b>Full Stack<br/>
-• 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
-• 📫 Reach me pavanmekala.dev@gmail.com<br/>
-• 💼 <a href="https://pavan-mekala.web.app" target="_blank"><b> Visit My Portfolio</b></a><br/>
+• 📫 Reach me busetty14keerthana@gmail.com<br/>
+• 💼 <a href="https://keerthana-busetty.web.app" target="_blank"><b> Visit My Portfolio</b></a><br/>
 </span>
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="./assets/twitter-anime.gif" alt="iampvn37" height="40" width="40" /></a> -->
 <a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="./assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
-<a href="https://instagram.com/iam_pvn" target="blank" title='Instagram'><img align="center" src="./assets/instagram-anime.gif" alt="iam_pvn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" margin="5"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,7 +66,7 @@
 ### <img src="./assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pa1mekala37&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
-<p><img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=Pa1mekala37&show_icons=true&locale=en&layout=compact" alt="pa1mekala37" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=pa1mekala37&show_icons=true&locale=en&rank_icon=github" alt="pa1mekala37" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Pa1mekala37&" alt="pa1mekala37" /></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keerthanabusetty&show_icons=true&theme=github&hide=rank_badge"  display=block width=100% height=auto  alt="Graph Stats" >
+<p><img align="left" src="https://github-readme-stats-three-gamma-87.vercel.app/api/top-langs?username=keerthanabusetty&show_icons=true&locale=en&layout=compact" alt="keerthanabusetty" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=keerthanabusetty&show_icons=true&locale=en&rank_icon=github" alt="keerthanabusetty" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=keerthanabusetty&" alt="keerthanabusetty" /></p>
